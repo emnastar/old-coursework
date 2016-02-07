@@ -1,0 +1,64 @@
+- Datastructures used in Person: 
+	- String to store Name of the Person
+	- Class LaunchGame to launch the game
+
+
+- Datastructures used in Launch
+	- Person class to be clients and admins
+	- ArrayList<Person> for SaveGame and LoadGame
+
+
+- Datastructures for Client:
+	- Array of Strings for methods related to searching
+	- Book class for the book method
+	- Itinerary class for getBooked
+	- Int class for getBilling
+	- Array of ints for travel time
+
+
+- Datastructures for Administrator:
+	- Int class for getBilling
+	- Client lass for getClient
+	- String class for all the other getters
+	- Array of Clients for all the Clients under the Administrator
+	- Array of Strings for methods related to searching
+	- Scanner class for uploadFlightInfo and enterFlightInfo
+	- Array of ints for travel time
+
+
+- Datastructure for Booking class:
+	- Client class, Administrtor class for getBooker
+	- Itinerary class or createItinerary
+	- createSingleFlight class for createSingleFlight
+
+
+- Datastructure for FlightInfo:
+	- Int for getFlightNumber, getCost
+	- array of ints for getTravelTime
+	- String or everything else
+
+
+- Datastructure for SearchFlight:
+	- Array of Strings or every method
+
+
+- Datastructure for Itinerary:
+	- Int for getFlightNumber, getCost
+	- array of ints for getTravelTime
+	- String or everything else
+	- Array of SingleFlights for its constructor
+
+- Datastructure for SingleFlight:
+	- int for getFlightNumber, getCost
+	- array of ints for getTravelTime
+	- String or everything else
+
+
+Justification: 
+
+	- we chose int for variables related to numbers so that we can add and subtract
+	- we chose ArrayList<> for variables where we have to constantly take out and add items and we don't know the size
+	- we chose array for variables where we have to constantly take out and add items and we know the size
+	- we chose string for things that we have to display so that we can print it out
+	- we chose scanner class for things that we have to write/read from a file
+

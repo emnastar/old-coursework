@@ -1,0 +1,13 @@
+Java Automatic Marker 0.1.0
+
+All tests passed!
+
+********************************************************************************
+*                        SUMMARY @ 2015/11/19 11:06:44                         *
+********************************************************************************
+    Tests passed: 13
+    Tests run: 13
+    Note: If you did not pass all the tests, you still have 0% on this 
+    exercise. If you have several NoClassDefFoundError, that may be because 
+    your program did not compile. Check the exercise FAQ on Piazza for more 
+    details before posting on Piazza.

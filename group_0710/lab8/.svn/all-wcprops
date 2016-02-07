@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/csc207-2015-09/group_0710/!svn/ver/115/lab8
+END
+.directory
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/csc207-2015-09/group_0710/!svn/ver/104/lab8/.directory
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/csc207-2015-09/group_0710/!svn/ver/104/lab8/.gitignore
+END
+gradlew
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/csc207-2015-09/group_0710/!svn/ver/104/lab8/gradlew
+END
+local.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/csc207-2015-09/group_0710/!svn/ver/104/lab8/local.properties
+END
+lab8.iml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/csc207-2015-09/group_0710/!svn/ver/104/lab8/lab8.iml
+END
+Lab8.zip
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/csc207-2015-09/group_0710/!svn/ver/104/lab8/Lab8.zip
+END
+gradle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/csc207-2015-09/group_0710/!svn/ver/104/lab8/gradle.properties
+END
+gradlew.bat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/csc207-2015-09/group_0710/!svn/ver/104/lab8/gradlew.bat
+END
+build.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/csc207-2015-09/group_0710/!svn/ver/104/lab8/build.gradle
+END
+settings.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/csc207-2015-09/group_0710/!svn/ver/104/lab8/settings.gradle
+END

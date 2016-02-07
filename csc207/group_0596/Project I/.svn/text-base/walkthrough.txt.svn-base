@@ -1,0 +1,6 @@
+Scenario: Search all itineraries from Toronto to Venice on May 3, 2016.
+
+0)	Client: searchFlight
+	given origin, destination, and date
+1) 	SearchFlight: searchFlight
+	given origin, destination, and date

@@ -1,0 +1,87 @@
+This was copied over from the google drive document where we tracked our work:
+
+
+Meeting days:
+
+------------------------------------------------------------------------------------
+Sunday Nov 8th:
+Group meeting
+1 hour and 23 minutes
+------------------------------------------------------------------------------------
+
+- Chris: creating and traversing the graph, unit tests, misc
+    > Create/search itineraries
+    > point 1 and 2 from PDF
+    > Write someone else’s unit tests
+- Sheldon: booking info (+ database), unit tests
+    > parsing client text file
+    > store personal info and pass it back to the caller (the ‘database’)
+    > Write someone else’s unit tests
+- Mena: flight upload (+ database), unit tests
+    > parsing the csv file (becomes ‘create itineraries from flight info’)
+    > store the data and pass it back to the caller (the ‘database’)
+    > Write someone else’s unit tests
+- David: sorting, CRC, unit tests
+> sorting the itinerary data, after the graph traversal (by price and time)
+    Note: This will be in the form List<List<FlightInformation>>
+> Create a main ‘database’ class that holds everything (data from above, and   
+   reference to graph)
+    > Write someone else’s unit tests
+
+
+------------------------------------------------------------------------------------
+Wednesday Nov 11th:
+Group meeting and status meeting
+1 hour and 5 minutes
+------------------------------------------------------------------------------------
+
+Chris:
+	Flights searching almost done, developed additional data structures/utilities
+Sheldon:
+	Client development in progress, need general CSV parser to merge with Mena
+Mena:
+	Completed CSV parser, developing interface, writing unit tests next time.
+David:
+	Going to work on the sorting and searching, will write unit tests for others
+
+------------------------------------------------------------------------------------
+Friday Nov 20th:
+Status meeting
+1 hour and 2 minutes
+------------------------------------------------------------------------------------
+
+Chris:
+	- Everything done, helping other people with their work
+	- Need to adapt unit tests to work with the new Driver class and test
+Sheldon:
+	- Client development almost done
+	- Unit test done
+Mena:
+	- Unit tests done, all tasks complete
+	- Helping other people if needed, going over code and formatting/making sure
+	it is solid
+David:
+	- Developed sorting by time and cost
+	- Going to re-work into an Itinerary class with Chris
+	- Updating CRC cards.
+
+------------------------------------------------------------------------------------
+Sunday Nov 22nd:
+Group meeting
+43 minutes
+------------------------------------------------------------------------------------
+
+Chris:
+	- Helped Sheldon with file overwriting errors
+	- Added file writing methods
+Sheldon:
+	- Worked on overhaul of Client code with Chris
+	- Split remaining CRC card updates with David
+Mena:
+	- Further code review
+	- Further CRC review and looking for miscellaneous errors
+David:
+	- Implemented some unit tests
+	- Updating CRC cards
+	- Added a new unit test
+

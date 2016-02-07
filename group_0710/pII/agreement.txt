@@ -1,0 +1,31 @@
+c5koehle I accept these guidelines and intend to fulfill them.
+g3yeshen I accept these guidelines and intend to fulfill them.
+c5juli I accept these guidelines and intend to fulfill them.
+c5witkap I accept these guidelines and intend to fulfill them.
+------------------------------
+
+Method of communication: Email + Skype + meeting in labs
+
+Response time: 24 hours
+
+Meeting duration: meet at designated spot for approximately 1 hour
+
+Version control: don’t commit previous versions, don’t do a huge commit (do smaller ones)
+
+Division of work: See designations
+
+Submissions: Everyone submit their own part, everyone reviews everyone elses work at least once before the final submission, preferably earlier
+
+Contingency planning: designate work immediately to someone who can handle it and get instructor help
+
+Misc: 
+    - Always comment your code, and be as clean as possible (both codewise and 
+  document wise)
+- Try to follow https://google.github.io/styleguide/javaguide.html but use tabs (4 spaces 
+   per tab)
+
+
+FOR NEXT MEETING: (Wed @ lab time, BA3185)
+------------------------------
+Have all JUnit tests done
+Try to have some of your code done (or all of it… that would be amazing)

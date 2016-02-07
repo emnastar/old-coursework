@@ -1,0 +1,60 @@
+Wed Nov 25th:
+-------------
+> Discussed ideas behind what we will do
+> Finished lab together and went off to learn android studio
+*** Next meeting on the weekend
+
+
+
+Sun Nov 29th:
+-------------
+> Officially set in stone what we will be doing:
+
+ROLE 1: Chris
+Backend graph updating
+ - Modify single flights to be date/time, meaning include time and convert to JDK7
+ - Update graph searching to JDK7
+ - Must return overall cost and travel time [consider maybe extra datas or a tuple]
+ - Adjust anything else that's required so that the application works
+ - Update unit tests
+
+ROLE 2: Dave
+Updating and saving
+ - CRC card updating
+ - Autosave information on close to a file that is autoloaded on application start
+ - Save data every change
+ - Write method(s) for the people for Role 3 and 4 that can be called to save data on change
+ - Write unit tests for new methods
+
+ROLE 3: Sheldon
+Frontend client
+ - Login for client or admin, load any saved data if exists [what saved data?]
+ - Both: Display data from itinerary search
+ - Both: Sort results by time or total cost
+ - Client: Book itinerary
+
+ROLE 4: Mena
+Frontend admin
+ - Admin: View client personal/billing information
+ - Admin: Upload client personal/billing information into the system from a CSV file
+ - Admin: Edit personal information
+ - Admin: Edit information for a flight
+
+
+*** Next meeting on Tuesday evening
+
+
+==================================================================
+
+Wednesday meeting (decided to do an in-person meeting a day later):
+
+- Chris has all his code completed/transformed, will complete the base transition and repository migration
+- Sheldon to attempt adding his code from v1.5 to v1.4 for compatibility
+- Mena planning on adding her admin panel stuff (waiting for Chris to finish up one thing, EDIT: completed as of the same evening)
+- Dave to handle CRC card updates from the meeting
+
+
+> Added new res/ folder where all the starting data will go
+
+
+*** Next meeting after the demo date
